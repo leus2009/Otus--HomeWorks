@@ -1,0 +1,28 @@
+{
+  "name": "otus--homeworks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leus2009/Otus--HomeWorks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leus2009/Otus--HomeWorks/issues"
+  },
+  "homepage": "https://github.com/leus2009/Otus--HomeWorks#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "eslint": "^7.19.0",
+    "jest": "^26.6.3"
+  }
+}
